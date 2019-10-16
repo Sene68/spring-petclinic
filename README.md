@@ -18,7 +18,7 @@ Petclinic Clone & Run
    * Maven Build로 CSS 파일을 생성해야합니다. 터미널의 명령어를 입력 하였을 때 에러가 발생하게되면 (3)의 과정으로 CSS 파일을 생성하면 됩니다.  
      정상적으로 CSS 파일을 생성하면 target/classes/static/resources/css/petclinic.css 가 생성됩니다.  
      
-4. Apllication 실행  
+4. Application 실행  
    - src/main/java/PetClinicApplication -> Run  
   
 5. 브라우저에 http://localhost:8080 접속  
